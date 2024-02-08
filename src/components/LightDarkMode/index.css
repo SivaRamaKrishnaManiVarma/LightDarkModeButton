@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.dark-mode {
+  color: white;
+  background-color: black;
+}
+.light-mode {
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+}
+.container {
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+.app-cont {
+  display: flex;
+}
+.button {
+  font: black;
+}
